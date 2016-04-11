@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_variant_one">VariantOneActivity</string>
+
+    <string name="variant_one">Variant One</string>
+    <string name="variant_two">Variant Two</string>
+    <string name="title_activity_variant_two">VariantTwoActivity</string>
+</resources>
